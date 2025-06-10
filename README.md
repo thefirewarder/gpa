@@ -1,7 +1,7 @@
 # GPA Calculator — Fireward Tools
 Calculate your GPA fast with support for credits, custom grades, and real U.S. scaling.
 No sign-up. No fluff. Just the GPA.
-##What you get:
+## What you get:
 
 -🔥Delete Button
 
