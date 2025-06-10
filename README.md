@@ -6,4 +6,5 @@ No sign-up. No fluff. Just the GPA.
 -➕Unlimited Course Additions
 -🧮Credit Calculations
 -😁More soon!
-→ What are you waiting for! go to [firewardgames.com/gpa-calculator](firewardgames.com/gpa-calculator)
+
+→ What are you waiting for?! go to [firewardgames.com/gpa-calculator](firewardgames.com/gpa-calculator)
